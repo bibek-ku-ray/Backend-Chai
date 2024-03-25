@@ -1,0 +1,19 @@
+{
+  "name": "backend-chai-youtube",
+  "version": "1.0.0",
+  "description": "Youtube backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "bibek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
